@@ -13,4 +13,5 @@ if (arguments[0] === 'error') {
   throw new Error('run in error mode');
 } else {
   console.log('app start success');
+  console.log('hi jinkens!')
 }
