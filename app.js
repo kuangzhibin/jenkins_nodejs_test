@@ -14,5 +14,4 @@ if (arguments[0] === 'error') {
 } else {
   console.log('app start success');
   console.log('hello jinkens!');
-  console.log('good, it\'s done!!!!');
 }
